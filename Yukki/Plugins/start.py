@@ -30,7 +30,7 @@ def start_pannel():
                 InlineKeyboardButton(text="💭 Group", url="https://t.me/VeezSupportGroup")
             ],
     ]
-    return "✨ This is veez mega, a bot that can play music trough the Telegram Group video chat feature.", buttons
+    return "✨ This is pdrmusebot , a bot that can play music trough the Telegram Group video chat feature.", buttons
 
 
 pstart_markup = InlineKeyboardMarkup(
